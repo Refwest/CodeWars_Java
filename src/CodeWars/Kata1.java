@@ -1,3 +1,5 @@
+package CodeWars;
+
 public class Kata1 {
     //Suma wartości tablicy
     public static void main(String[] args) {
